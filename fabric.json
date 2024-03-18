@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Cotton Fabric",
+    "fabric_name": "Cotton",
+    "description": "Soft, breathable, and versatile fabric made from natural cotton fibers.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673352665248-f9f275d4e032?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFicmljfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 2,
+    "title": "Silk Fabric",
+    "fabric_name": "Silk",
+    "description": "Luxurious and smooth fabric produced by silkworms, known for its lustrous appearance.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673352665248-f9f275d4e032?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFicmljfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 3,
+    "title": "Wool Fabric",
+    "fabric_name": "Wool",
+    "description": "Warm and insulating fabric derived from the fleece of sheep or other animals like goats (cashmere) or rabbits (angora).",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673352665248-f9f275d4e032?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFicmljfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 4,
+    "title": "Linen Fabric",
+    "fabric_name": "Linen",
+    "description": "Lightweight and durable fabric made from the flax plant, known for its crisp texture and natural luster.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673352665248-f9f275d4e032?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFicmljfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 5,
+    "title": "Polyester Fabric",
+    "fabric_name": "Polyester",
+    "description": "Synthetic fabric known for its durability, wrinkle resistance, and quick-drying properties.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673352665248-f9f275d4e032?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFicmljfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 6,
+    "title": "Rayon Fabric",
+    "fabric_name": "Rayon",
+    "description": "Versatile semi-synthetic fabric made from regenerated cellulose fiber, known for its softness and drape.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673352665248-f9f275d4e032?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFicmljfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 7,
+    "title": "Velvet Fabric",
+    "fabric_name": "Velvet",
+    "description": "Luxurious fabric with a soft pile, traditionally made from silk but also available in synthetic fibers.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673352665248-f9f275d4e032?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFicmljfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 8,
+    "title": "Denim Fabric",
+    "fabric_name": "Denim",
+    "description": "Sturdy cotton twill fabric, typically dyed with indigo, known for its use in durable jeans and casual wear.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673352665248-f9f275d4e032?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFicmljfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 9,
+    "title": "Chiffon Fabric",
+    "fabric_name": "Chiffon",
+    "description": "Lightweight and sheer fabric with a delicate drape, often used in elegant evening wear and formal attire.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673352665248-f9f275d4e032?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFicmljfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 10,
+    "title": "Flannel Fabric",
+    "fabric_name": "Flannel",
+    "description": "Soft and cozy fabric made from wool, cotton, or synthetic fibers, brushed to create a soft nap.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1673352665248-f9f275d4e032?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmFicmljfGVufDB8fDB8fHww"
+  }
+]
